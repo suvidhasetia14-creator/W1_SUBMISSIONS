@@ -10,4 +10,4 @@
 - W1_DatasetCheck_TBI-26100762.pdf
 - W1_CaseStudies_TBI-26100762.pdf
 
-This repository contains the Week 1 deliverables for the TBI-GEU internship program.# W1_SUBMISSIONS
+This repository contains the Week 1 deliverables for the TBI-GEU internship program.
